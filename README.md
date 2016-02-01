@@ -1,2 +1,2 @@
-# ConveyancingCentral
-Conveyancing Central API &amp; SDK Resource
+# Altis Legal Resources
+Altis Legal API &amp; SDK Resource
